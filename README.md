@@ -1,4 +1,4 @@
-# 🔍 Dynamic Secrets Manager module 🔍
+# ㊙️ Dynamic Secrets Manager module ㊙️
 
 * You can find all examples of usage in the root `examples` folder. ***Keep in mind they show implementation with `Terragrunt`***.
 
